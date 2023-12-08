@@ -112,7 +112,7 @@ class _SingleGameScreenState extends State<SingleGameScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Game UI'), // TODO 화면 구성 고민
+        title: Text('Game UI'), // TODO 화면 구성 고민.
       ),
       body: Stack(
         alignment: Alignment.center,
